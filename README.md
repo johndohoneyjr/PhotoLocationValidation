@@ -16,8 +16,6 @@ The intention of this program is to all you to determine the actual location of 
 feature of the phone or camera is enabled.  Some of the images posted to the web since the beginning of the war have been pretty unbelievable.  This
 program has the ability to deduce the precise GPS coordinates.  I have test pictures I have taken on the water and land, northern and southern hemispheres.
 
-## Professional Witnesses:
-
 This code is simple, with no elegant tricks.  The algorithm uses an open source library that:
 
 1. Reads the EXIF Header off a JPG image -- provided the person taking the picture turned on "Location Sharing"

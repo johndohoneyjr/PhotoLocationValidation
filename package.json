@@ -1,0 +1,19 @@
+{
+  "name": "exif-parser",
+  "version": "1.0.0",
+  "description": "This program will parse Exif Data from the supplied image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exif",
+    "jpg"
+  ],
+  "author": "John Dohoney",
+  "license": "ISC",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "yargs": "^8.0.2"
+  }
+}
